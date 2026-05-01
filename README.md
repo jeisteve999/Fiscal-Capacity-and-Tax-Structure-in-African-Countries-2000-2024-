@@ -62,7 +62,7 @@ These charts show the evolution of three main tax categories:
 
 ## Dashboard 1 – Tax Structure Evolution
 
-![Dashboard 1](dashboard%201.png](https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%201.png)
+![Dashboard 1](https://github.com/jeisteve999/Fiscal-Capacity-and-Tax-Structure-in-African-Countries-2000-2024-/blob/main/dashboard%202.png)
 
 Income taxes
 Consumption taxes (sales and production)
@@ -191,7 +191,7 @@ Property taxes are largely underdeveloped
 
 → This limits fiscal resilience and revenue diversification.
 
-🚀 5. Policy Recommendations
+-5. Policy Recommendations
 
 Strengthen Direct Taxation
 
