@@ -1,6 +1,15 @@
 # Fiscal Capacity & Tax Structure in Africa (2000–2024)
-analyzes the evolution of tax structures across African countries from 2000 to 2024 using excel
+An end-to-end data analysis project exploring fiscal capacity and tax structure trends across African countries (2000–2024), using Excel dashboards and macro-fiscal data.
 
+# Tools & Skills
+
+- Excel (Dashboards, Data Cleaning, Pivot Tables)
+- Data Analysis
+- Economic & Fiscal Analysis
+- Data Visualization
+- Storytelling with Data
+
+  
 
 # Project Overview
 
