@@ -32,7 +32,7 @@ The World Revenue Longitudinal Database (WoRLD) is a comprehensive dataset devel
 
 It includes data for 195 countries and provides consistent, comparable indicators on:
 
--Total revenue
+Total revenue
 Tax revenue composition
 Non-tax revenue sources
 GDP (in local currency)
@@ -45,15 +45,17 @@ Revenue mobilization studies
 
 
 -Key Variables Used in This Project
-TotRev → Total revenue (% of GDP)
-TaxRev → Total tax revenue (% of GDP)
-TaxInc → Income taxes (% of GDP)
-TaxIncC → Corporate income taxes (% of GDP)
-TaxIncCRes → Extractive industry taxes (% of GDP)
-TaxPro → Property taxes (% of GDP)
-TaxSal → Sales and production taxes (% of GDP)
-TaxTra → Trade taxes (% of GDP)
-NonTaxRes → Non-tax revenue from natural resources (% of GDP)
+
+
+*TotRev → Total revenue (% of GDP)
+*TaxRev → Total tax revenue (% of GDP)
+*TaxInc → Income taxes (% of GDP)
+*TaxIncC → Corporate income taxes (% of GDP)
+*TaxIncCRes → Extractive industry taxes (% of GDP)
+*TaxPro → Property taxes (% of GDP)
+*TaxSal → Sales and production taxes (% of GDP)
+*TaxTra → Trade taxes (% of GDP)
+*NonTaxRes → Non-tax revenue from natural resources (% of GDP)
 
 
 # 1. Evolution of Tax Structure (2000–2024)
