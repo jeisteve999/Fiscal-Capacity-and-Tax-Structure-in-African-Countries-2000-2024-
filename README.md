@@ -21,7 +21,7 @@ The analysis is presented through interactive dashboards and supported by key in
 
 # Dataset Information
 
---Dataset Name
+-Dataset Name
 IMF World Revenue Longitudinal Database (WoRLD) – 2026 Release
 
 Link: https://www.imf.org/en/topics/fiscal-policies/world-revenue-longitudinal-database
@@ -32,7 +32,7 @@ The World Revenue Longitudinal Database (WoRLD) is a comprehensive dataset devel
 
 It includes data for 195 countries and provides consistent, comparable indicators on:
 
-Total revenue
+-Total revenue
 Tax revenue composition
 Non-tax revenue sources
 GDP (in local currency)
@@ -69,22 +69,22 @@ Consumption taxes (sales and production)
 Property taxes
 Key Insights
 
-Consumption Taxes (Sales & Production)
+-Consumption Taxes (Sales & Production)
 Show a clear and steady upward trend (≈4.0% → >5.5%).
-→ Indicates increasing reliance on indirect taxation (e.g., VAT), which is easier to collect and more stable.
+Indicates increasing reliance on indirect taxation (e.g., VAT), which is easier to collect and more stable.
 
-Income Taxes
+-Income Taxes
 More volatile, with moderate growth until ~2012 and stabilization afterward.
-→ Reflect sensitivity to economic cycles such as employment and income fluctuations.
+Reflect sensitivity to economic cycles such as employment and income fluctuations.
 
-Property Taxes
+-Property Taxes
 Remain very low and unstable, with peaks around 2010 and 2017.
-→ Suggest structural limitations such as weak cadastral systems and low administrative capacity.
+Suggest structural limitations such as weak cadastral systems and low administrative capacity.
 
 COVID-19 Impact (2020)
 A visible drop across all tax categories reflects economic disruption.
 
-Conclusion
+-Conclusion
 
 African tax systems are gradually shifting toward consumption-based taxation, while direct taxes remain underdeveloped and less stable.
 
@@ -107,22 +107,21 @@ Risk: regressive impact on lower-income populations
 
 Decline over time (≈3.3 → 2.4% of GDP)
 
- Reflect trade liberalization
- Shift toward domestic taxation (VAT-based systems)
+Reflect trade liberalization
+Shift toward domestic taxation (VAT-based systems)
 
 - Property Taxes
 
 Remain extremely low (~0.15–0.22% of GDP)
-
-  High untapped potential
-  Weak implementation and administrative challenges
+High untapped potential
+Weak implementation and administrative challenges
 
 - Natural Resource Revenues
 Non-tax revenues dominate
 Tax revenues from extractive industries are relatively smaller
 
-  Strong reliance on resource rents
-  High exposure to commodity price volatility
+-Strong reliance on resource rents
+High exposure to commodity price volatility
 
 
 
@@ -134,7 +133,7 @@ Tax revenues from extractive industries are relatively smaller
 
 This dashboard highlights the Top 10 countries by tax type (% of GDP) across three categories:
 
-Corporate Income Taxes
+-Corporate Income Taxes
 
 Countries like Eritrea and Equatorial Guinea show the highest shares.
 
@@ -142,23 +141,23 @@ Interpretation:
 
 Indicates strong reliance on corporate taxation
 Often linked to resource-based or concentrated economies
- Potential risk: overdependence on a narrow tax base
+Potential risk: overdependence on a narrow tax base
 
 
 Extractive Industry Taxes
 
 Led by countries such as Equatorial Guinea, Gabon, and Botswana.
 
-Interpretation:
+-Interpretation:
 
 Reflects resource-driven fiscal structures
- High revenue potential
- Strong vulnerability to commodity price cycles
- Sales and Production Taxes
+High revenue potential
+Strong vulnerability to commodity price cycles
+Sales and Production Taxes
 
 Countries like Seychelles and Mauritius lead this category.
 
-Interpretation:
+-Interpretation:
 
 Indicates more diversified and consumption-based economies
 More stable revenue streams
