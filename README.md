@@ -44,18 +44,17 @@ Cross-country comparisons
 Revenue mobilization studies
 
 
--Key Variables Used in This Project
+## Key Variables Used in This Project
 
-
-*TotRev → Total revenue (% of GDP)
-*TaxRev → Total tax revenue (% of GDP)
-*TaxInc → Income taxes (% of GDP)
-*TaxIncC → Corporate income taxes (% of GDP)
-*TaxIncCRes → Extractive industry taxes (% of GDP)
-*TaxPro → Property taxes (% of GDP)
-*TaxSal → Sales and production taxes (% of GDP)
-*TaxTra → Trade taxes (% of GDP)
-*NonTaxRes → Non-tax revenue from natural resources (% of GDP)
+- **TotRev** → Total revenue (% of GDP)  
+- **TaxRev** → Total tax revenue (% of GDP)  
+- **TaxInc** → Income taxes (% of GDP)  
+- **TaxIncC** → Corporate income taxes (% of GDP)  
+- **TaxIncCRes** → Extractive industry taxes (% of GDP)  
+- **TaxPro** → Property taxes (% of GDP)  
+- **TaxSal** → Sales and production taxes (% of GDP)  
+- **TaxTra** → Trade taxes (% of GDP)  
+- **NonTaxRes** → Non-tax revenue from natural resources (% of GDP)
 
 
 # 1. Evolution of Tax Structure (2000–2024)
