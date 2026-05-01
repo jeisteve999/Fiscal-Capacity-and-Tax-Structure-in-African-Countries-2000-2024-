@@ -116,7 +116,7 @@ Remain extremely low (~0.15–0.22% of GDP)
 High untapped potential
 Weak implementation and administrative challenges
 
-- Natural Resource Revenues
+Natural Resource Revenues
 Non-tax revenues dominate
 Tax revenues from extractive industries are relatively smaller
 
