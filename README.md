@@ -71,16 +71,13 @@ Property taxes
 Key Insights
 
 -Consumption Taxes (Sales & Production)
-Show a clear and steady upward trend (≈4.0% → >5.5%).
-Indicates increasing reliance on indirect taxation (e.g., VAT), which is easier to collect and more stable.
+Show a clear and steady upward trend (≈4.0% → ≈5.5% of GDP), indicating an increasing reliance on indirect taxation such as VAT. This suggests a shift toward more stable and easier-to-collect revenue sources.
 
 -Income Taxes
-More volatile, with moderate growth until ~2012 and stabilization afterward.
-Reflect sensitivity to economic cycles such as employment and income fluctuations.
+Exhibit higher volatility compared to consumption taxes, with moderate growth until around 2012 followed by relative stabilization. This pattern reflects sensitivity to macroeconomic conditions such as employment levels and income fluctuations.
 
 -Property Taxes
-Remain very low and unstable, with peaks around 2010 and 2017.
-Suggest structural limitations such as weak cadastral systems and low administrative capacity.
+Remain consistently low and unstable, with occasional peaks (e.g., around 2010 and 2017). This suggests structural challenges, including weak cadastral systems and limited administrative capacity.
 
 COVID-19 Impact (2020)
 A visible drop across all tax categories reflects economic disruption.
