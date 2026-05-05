@@ -63,7 +63,7 @@ These charts show the evolution of three main tax categories:
 
 ## Dashboard 1 – Tax Structure Evolution
 
-![Dashboard 1](https://github.com/jeisteve999/Fiscal-Capacity-Tax-Structure-in-Africa-2000-2024-/blob/main/dashboard%201.png)
+![Dashboard 1](https://github.com/jeisteve999/Tax-Revenue-Analysis-in-Africa/blob/main/dashboard.bi.png)
 
 Income taxes
 Consumption taxes (sales and production)
